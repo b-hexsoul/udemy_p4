@@ -1,7 +1,9 @@
 # udemy_p4
-About 3rd Project in Modern HTML &amp; CSS Course. Emphasis on CSS Grid.
+  https://b-hexsoul.github.io/udemy_p4/ 
+  3rd Project in Modern HTML &amp; CSS Course.
 
 
-## Overview: Website using CSS Grid. 
+## Overview:
+  Emphasis on CSS Grid layout
 
 ### Learning Highlights (for self review):
